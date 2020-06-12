@@ -8,34 +8,33 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : PORTFOLIO-QUIZZ
 
-**Web:**   (url github.io)
+**Web:**   rociomc2000.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Rocío Martínez Campos
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto trata de mostrar las obras que he ido haciendo a lo largo de mi grado universitario de Bellas Artes, añadiendo un poco de mi biografía para que el espectador pueda conocerme. Además , este portfolio cuenta con un juego de preguntas con recuento de aciertos y fallos, (3max.)y cuando se llega al final del juego, revelo mi obra más significativa (sentimentalmente para mí).
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Portfolio
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
 
 (insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   ipad, móvil android y ordenador.
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 121MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 12/06/2020
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
 - Github:
-- Twitter
 - Instagram
 
 
@@ -44,18 +43,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
+Habrá cuatro secciones, obras, biografía, quizz y créditos, en el apartado de obras habra distintas imagenes que podremor ir pasando con el botón de siguiente y siempre habrá un botón presente de inicio, para volver hacia atrás en cualquier momento, también habrá presente siempre un botón de música para pararla y reproducirla cuando el espectador quiera. A parte habrá un juego de preguntas con recuento de fallos. y saldrá una alerta al tercer fallo.
 
 
 ### 2.2. Esquema de navegación 
 
 
+procreate
+hippani
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
@@ -73,14 +69,14 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
+- 
 - 
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque puedes ver el tipo de obras que realizo y si al espectador le gusta alguna, contactar conmigo a través de mi instragram artístico para cualquier encargo.
 
 
 
@@ -98,7 +94,7 @@ Este  proyecto es interesante porque ...
 
 - Juego. 
 - Video 
-- Instrucciones y ayuda al usuario 
+- Música
 - Menús y elementos de navegación (botones)
 - etc.
 
@@ -106,13 +102,12 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+(creo que a veces va un poco más lento porque mi proyecto pesa demasiado, pero aun asi se ve bien normalmente y el vídeo se reproduce en página de prueba y no en github, y eso no sé porqué )
 
 
 
 # 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+ Considero que he aprendido bastante sobre Hippani y demás.A pesar, de que soy muy patosa para todo lo relaccionado con la informática, he intentado hacerlo lo mejor posible y dar de mi lo que he podido , me ha resultado aún más dificil en estas circunstancias , pero, el profesor ha sido muy útil con sus videos y explicaciones y gracias a ello he podido aprender. 
 
 
 
@@ -124,23 +119,19 @@ Este  proyecto es interesante porque ...
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Eahrling sommar
+* Imágenes:  obras propias
+* Tipografía. palatino
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- audaciti, para la música 
+-procreate, para crear mis imágenes con un fondo común a todas las demás.
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2020
+Junio 2020
